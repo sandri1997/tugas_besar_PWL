@@ -1,9 +1,3 @@
-<!-- 
-NAMA   : SANDRI ADNIN
-NPM    : 202243570053
-MATKUL : PEMROGRAMAN WEB LANJUT
--->
-
 <!DOCTYPE html>
 <html>
 <head>
